@@ -8,21 +8,40 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 12 Apr 2017 11:14:48 -0400</lastBuildDate><atom:link href="/tags/scene/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Chapter IV: Master Jacques Coppenole</title>
-      <link>/post/chapter-4/</link>
+      <title>Project 4: bla bla bla</title>
+      <link>/post/project4/</link>
       <pubDate>Wed, 12 Apr 2017 11:14:48 -0400</pubDate>
       
-      <guid>/post/chapter-4/</guid>
-      <description>project 4</description>
+      <guid>/post/project4/</guid>
+      <description>project 4 details blah blah blah blah blah Illustration from Victor Hugo et son temps (1881) blah blah</description>
     </item>
     
     <item>
-      <title>Chapter I: The Grand Hall</title>
-      <link>/post/chapter-1/</link>
+      <title>Project 3: bla bla</title>
+      <link>/post/project3/</link>
+      <pubDate>Tue, 11 Apr 2017 11:13:32 -0400</pubDate>
+      
+      <guid>/post/project3/</guid>
+      <description>project 3 details blah blah blah blah blah Illustration from Victor Hugo et son temps (1881) blah blah</description>
+    </item>
+    
+    <item>
+      <title>Project 2: project name here</title>
+      <link>/post/project2/</link>
+      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
+      
+      <guid>/post/project2/</guid>
+      <description>project 2 detailss blah blah blah blah blah Illustration from Victor Hugo et son temps (1881) blah blah</description>
+    </item>
+    
+    <item>
+      <title>Project 1: project name here</title>
+      <link>/post/project1/</link>
       <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
       
-      <guid>/post/chapter-1/</guid>
-      <description>Project 1</description>
+      <guid>/post/project1/</guid>
+      <description>Project 1 details
+blah blah blah blah blah Illustration from Victor Hugo et son temps (1881) blah blah</description>
     </item>
     
   </channel>
