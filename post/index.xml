@@ -35,13 +35,12 @@
     </item>
     
     <item>
-      <title>Project 1: project name here</title>
+      <title>Project 1: Fatal vehicles crashes in USA for the last 10 years</title>
       <link>https://datng87.github.io/post/project1/</link>
       <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
       
       <guid>https://datng87.github.io/post/project1/</guid>
-      <description>Project 1 details
-blah blah blah blah blah Illustration from Victor Hugo et son temps (1881) blah blah</description>
+      <description>Road traffic is the most common traffic in the world. We commute daily using cars, motorbikes, or buses &amp;hellip; How safe for us to go out of the house and enter road traffic? Does road traffic become safer in the last ten years? Which states have the most incidents? What are some of the high-risk factors involved in vehicle crashes? I used the dataset from https://crashviewer.nhtsa.dot.gov/CrashAPI/ to get the crash data in the USA for the last ten years.</description>
     </item>
     
   </channel>
