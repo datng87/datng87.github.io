@@ -8,12 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 12 Apr 2017 11:14:48 -0400</lastBuildDate><atom:link href="https://datng87.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Project 4: bla bla bla</title>
-      <link>https://datng87.github.io/post/project4/</link>
+      <title>Interactive visualization</title>
+      <link>https://datng87.github.io/post/activity-interactive-visualization/</link>
       <pubDate>Wed, 12 Apr 2017 11:14:48 -0400</pubDate>
       
-      <guid>https://datng87.github.io/post/project4/</guid>
-      <description>project 4 details blah blah blah blah blah Illustration from Victor Hugo et son temps (1881) blah blah</description>
+      <guid>https://datng87.github.io/post/activity-interactive-visualization/</guid>
+      <description>In this activity, I use the data from 2014 ACS 1-year estimates https://factfinder.census.gov/faces/nav/jsf/pages/searchresults.xhtml.
+The purpose is to use D3 to demonstrate the ability to build a personal customised interactive chart using D3 to visualise the relationship between health risks and social demography backgrounds.
+Interactive chart using D3 We can see there are some correlation between Poverty and lack of healthcare, or correlation between obesity and household Income&amp;hellip;
+Visit https://datng87.github.io/D3-challenge/ for a live demo website.</description>
     </item>
     
     <item>
