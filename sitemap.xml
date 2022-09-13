@@ -2,43 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://datng87.github.io/tags/activities/</loc>
-    <lastmod>2017-04-12T11:14:48-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://datng87.github.io/</loc>
-    <lastmod>2017-04-12T11:14:48-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://datng87.github.io/post/activity-interactive-visualization/</loc>
-    <lastmod>2017-04-12T11:14:48-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://datng87.github.io/tags/</loc>
-    <lastmod>2017-04-12T11:14:48-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://datng87.github.io/post/project3/</loc>
-    <lastmod>2017-04-11T11:13:32-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://datng87.github.io/tags/projects/</loc>
-    <lastmod>2017-04-11T11:13:32-04:00</lastmod>
+    <lastmod>2022-09-12T11:00:59-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://datng87.github.io/post/project2/</loc>
-    <lastmod>2017-04-10T11:00:59-04:00</lastmod>
+    <lastmod>2022-09-12T11:00:59-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://datng87.github.io/tags/projects/</loc>
+    <lastmod>2022-09-12T11:00:59-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://datng87.github.io/tags/</loc>
+    <lastmod>2022-09-12T11:00:59-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://datng87.github.io/tags/activities/</loc>
+    <lastmod>2022-08-22T11:14:48-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://datng87.github.io/post/activity-leaflet-library-experiment/</loc>
+    <lastmod>2022-08-22T11:14:48-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://datng87.github.io/post/activity-interactive-visualization-d3/</loc>
+    <lastmod>2022-08-12T11:14:48-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://datng87.github.io/post/project1/</loc>
-    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
+    <lastmod>2022-07-09T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -52,6 +52,10 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://datng87.github.io/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://datng87.github.io/post/activity-plotly-library-experiment/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

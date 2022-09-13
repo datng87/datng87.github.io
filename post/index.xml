@@ -8,11 +8,32 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://datng87.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Interactive visualization</title>
-      <link>https://datng87.github.io/post/activity-interactive-visualization/</link>
-      <pubDate>Wed, 12 Apr 2017 11:14:48 -0400</pubDate>
+      <title>Project 2: ETL project</title>
+      <link>https://datng87.github.io/post/project2/</link>
+      <pubDate>Mon, 12 Sep 2022 11:00:59 -0400</pubDate>
       
-      <guid>https://datng87.github.io/post/activity-interactive-visualization/</guid>
+      <guid>https://datng87.github.io/post/project2/</guid>
+      <description>As a coffee lover, I am always keen to explore the data regarding coffee production, import/export and consumption worldwide.
+In this project, I will visualise the above data on various charts, including choropleth, line chart and bar chart. The charts are interactive, and the user can choose multiple filters to display the desired data.
+This is a completed standalone project in which the data was loaded to Postgres database and hosted online (Heroku).</description>
+    </item>
+    
+    <item>
+      <title>Interactive Map using Leaflet</title>
+      <link>https://datng87.github.io/post/activity-leaflet-library-experiment/</link>
+      <pubDate>Mon, 22 Aug 2022 11:14:48 -0500</pubDate>
+      
+      <guid>https://datng87.github.io/post/activity-leaflet-library-experiment/</guid>
+      <description>In this activity, I used the leaflet library to visualise the worldwide earthquakes in the last 7 days. The up-to-date data was pulled from United States Geological Survey, (USGS) through an API call. Mapbox was used to provide the layers of the world map. The magnitude and locations of earthquakes are visualised using circle markers. The tectonic plates are visualised using lines geometry geojson.
+We can see clearly that most earthquakes happen at the boundaries where the plates meet.</description>
+    </item>
+    
+    <item>
+      <title>Interactive DIY visualization</title>
+      <link>https://datng87.github.io/post/activity-interactive-visualization-d3/</link>
+      <pubDate>Fri, 12 Aug 2022 11:14:48 -0400</pubDate>
+      
+      <guid>https://datng87.github.io/post/activity-interactive-visualization-d3/</guid>
       <description>In this activity, I use the data from 2014 ACS 1-year estimates https://factfinder.census.gov/faces/nav/jsf/pages/searchresults.xhtml.
 The purpose is to use D3 to demonstrate the ability to build a personal customised interactive chart using D3 to visualise the relationship between health risks and social demography backgrounds.
 Interactive chart using D3 We can see there are some correlation between Poverty and lack of healthcare, or correlation between obesity and household Income&amp;hellip;
@@ -20,30 +41,23 @@ Visit https://datng87.github.io/D3-challenge/ for a live demo website.</descript
     </item>
     
     <item>
-      <title>Project 3: bla bla</title>
-      <link>https://datng87.github.io/post/project3/</link>
-      <pubDate>Tue, 11 Apr 2017 11:13:32 -0400</pubDate>
-      
-      <guid>https://datng87.github.io/post/project3/</guid>
-      <description>project 3 details blah blah blah blah blah Illustration from Victor Hugo et son temps (1881) blah blah</description>
-    </item>
-    
-    <item>
-      <title>Project 2: project name here</title>
-      <link>https://datng87.github.io/post/project2/</link>
-      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
-      
-      <guid>https://datng87.github.io/post/project2/</guid>
-      <description>project 2 detailss blah blah blah blah blah Illustration from Victor Hugo et son temps (1881) blah blah</description>
-    </item>
-    
-    <item>
       <title>Project 1: Fatal vehicles crashes in USA for the last 10 years</title>
       <link>https://datng87.github.io/post/project1/</link>
-      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      <pubDate>Sat, 09 Jul 2022 10:58:08 -0400</pubDate>
       
       <guid>https://datng87.github.io/post/project1/</guid>
       <description>Road traffic is the most common traffic in the world. We commute daily using cars, motorbikes, or buses &amp;hellip; How safe for us to go out of the house and enter road traffic? Does road traffic become safer in the last ten years? Which states have the most incidents? What are some of the high-risk factors involved in vehicle crashes? I used the dataset from https://crashviewer.nhtsa.dot.gov/CrashAPI/ to get the crash data in the USA for the last ten years.</description>
+    </item>
+    
+    <item>
+      <title>Interactive Dashboard using Plotly</title>
+      <link>https://datng87.github.io/post/activity-plotly-library-experiment/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datng87.github.io/post/activity-plotly-library-experiment/</guid>
+      <description>In this activity, I built an interactive dashboard to explore the Belly Button Biodiversity dataset, which catalogues the microbes that colonise human navels.
+The dashboard shows the background of each individual and what type of bacteria was found in that person&amp;rsquo;s belly.
+Interactive dashboard Visit https://datng87.github.io/plotly-challenge/ for a live demo website. The code can be found at https://github.com/datng87/plotly-challenge.</description>
     </item>
     
   </channel>

@@ -6,17 +6,38 @@
     <description>Recent content in Activities on Dat Nguyen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Apr 2017 11:14:48 -0400</lastBuildDate><atom:link href="https://datng87.github.io/tags/activities/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 Aug 2022 11:14:48 -0500</lastBuildDate><atom:link href="https://datng87.github.io/tags/activities/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Interactive visualization</title>
-      <link>https://datng87.github.io/post/activity-interactive-visualization/</link>
-      <pubDate>Wed, 12 Apr 2017 11:14:48 -0400</pubDate>
+      <title>Interactive Map using Leaflet</title>
+      <link>https://datng87.github.io/post/activity-leaflet-library-experiment/</link>
+      <pubDate>Mon, 22 Aug 2022 11:14:48 -0500</pubDate>
       
-      <guid>https://datng87.github.io/post/activity-interactive-visualization/</guid>
+      <guid>https://datng87.github.io/post/activity-leaflet-library-experiment/</guid>
+      <description>In this activity, I used the leaflet library to visualise the worldwide earthquakes in the last 7 days. The up-to-date data was pulled from United States Geological Survey, (USGS) through an API call. Mapbox was used to provide the layers of the world map. The magnitude and locations of earthquakes are visualised using circle markers. The tectonic plates are visualised using lines geometry geojson.
+We can see clearly that most earthquakes happen at the boundaries where the plates meet.</description>
+    </item>
+    
+    <item>
+      <title>Interactive DIY visualization</title>
+      <link>https://datng87.github.io/post/activity-interactive-visualization-d3/</link>
+      <pubDate>Fri, 12 Aug 2022 11:14:48 -0400</pubDate>
+      
+      <guid>https://datng87.github.io/post/activity-interactive-visualization-d3/</guid>
       <description>In this activity, I use the data from 2014 ACS 1-year estimates https://factfinder.census.gov/faces/nav/jsf/pages/searchresults.xhtml.
 The purpose is to use D3 to demonstrate the ability to build a personal customised interactive chart using D3 to visualise the relationship between health risks and social demography backgrounds.
 Interactive chart using D3 We can see there are some correlation between Poverty and lack of healthcare, or correlation between obesity and household Income&amp;hellip;
 Visit https://datng87.github.io/D3-challenge/ for a live demo website.</description>
+    </item>
+    
+    <item>
+      <title>Interactive Dashboard using Plotly</title>
+      <link>https://datng87.github.io/post/activity-plotly-library-experiment/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datng87.github.io/post/activity-plotly-library-experiment/</guid>
+      <description>In this activity, I built an interactive dashboard to explore the Belly Button Biodiversity dataset, which catalogues the microbes that colonise human navels.
+The dashboard shows the background of each individual and what type of bacteria was found in that person&amp;rsquo;s belly.
+Interactive dashboard Visit https://datng87.github.io/plotly-challenge/ for a live demo website. The code can be found at https://github.com/datng87/plotly-challenge.</description>
     </item>
     
   </channel>
