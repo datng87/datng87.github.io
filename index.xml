@@ -24,8 +24,7 @@ This is a completed standalone project in which the data was loaded to Postgres 
       <pubDate>Mon, 22 Aug 2022 11:14:48 -0500</pubDate>
       
       <guid>https://datng87.github.io/post/activity-leaflet-library-experiment/</guid>
-      <description>In this activity, I used the leaflet library to visualise the worldwide earthquakes in the last 7 days. The up-to-date data was pulled from United States Geological Survey, (USGS) through an API call. Mapbox was used to provide the layers of the world map. The magnitude and locations of earthquakes are visualised using circle markers. The tectonic plates are visualised using lines geometry geojson.
-We can see clearly that most earthquakes happen at the boundaries where the plates meet.</description>
+      <description>In this activity, I used the leaflet library to visualise the worldwide earthquakes in the last 7 days. The up-to-date data was pulled from United States Geological Survey, (USGS) through an API call. The USGS is responsible for providing scientific data about natural hazards, the health of our ecosystems and environment; and the impacts of climate and land-use change. Their scientists develop new methods and tools to supply timely, relevant, and useful information about the Earth and its processes.</description>
     </item>
     
     <item>
@@ -47,6 +46,17 @@ Visit https://datng87.github.io/D3-challenge/ for a live demo website.</descript
       
       <guid>https://datng87.github.io/post/project1/</guid>
       <description>Road traffic is the most common traffic in the world. We commute daily using cars, motorbikes, or buses &amp;hellip; How safe for us to go out of the house and enter road traffic? Does road traffic become safer in the last ten years? Which states have the most incidents? What are some of the high-risk factors involved in vehicle crashes? I used the dataset from https://crashviewer.nhtsa.dot.gov/CrashAPI/ to get the crash data in the USA for the last ten years.</description>
+    </item>
+    
+    <item>
+      <title>Weather visualization - where should I go</title>
+      <link>https://datng87.github.io/post/activity-weather-visualisation/</link>
+      <pubDate>Sat, 11 Jun 2022 11:13:32 -0400</pubDate>
+      
+      <guid>https://datng87.github.io/post/activity-weather-visualisation/</guid>
+      <description>In this activity, I&amp;rsquo;ll take the weather data of 500+ randomly selected cities around the world then analyse the data to see any relations between cities lat/lon and its weather.
+Here is how I approached the problem:
+Firstly, I generated 500+ random lat/lon data Used citipy to find the nearest city to those lat/lon Then, I connect to the weather API (https://api.openweathermap.org/data/2.5/weather) to take the weather data of those cities The last step is to use Pandas to prepare the data and visualise it Below are some findings:</description>
     </item>
     
     <item>

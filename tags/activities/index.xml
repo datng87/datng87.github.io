@@ -13,8 +13,7 @@
       <pubDate>Mon, 22 Aug 2022 11:14:48 -0500</pubDate>
       
       <guid>https://datng87.github.io/post/activity-leaflet-library-experiment/</guid>
-      <description>In this activity, I used the leaflet library to visualise the worldwide earthquakes in the last 7 days. The up-to-date data was pulled from United States Geological Survey, (USGS) through an API call. Mapbox was used to provide the layers of the world map. The magnitude and locations of earthquakes are visualised using circle markers. The tectonic plates are visualised using lines geometry geojson.
-We can see clearly that most earthquakes happen at the boundaries where the plates meet.</description>
+      <description>In this activity, I used the leaflet library to visualise the worldwide earthquakes in the last 7 days. The up-to-date data was pulled from United States Geological Survey, (USGS) through an API call. The USGS is responsible for providing scientific data about natural hazards, the health of our ecosystems and environment; and the impacts of climate and land-use change. Their scientists develop new methods and tools to supply timely, relevant, and useful information about the Earth and its processes.</description>
     </item>
     
     <item>

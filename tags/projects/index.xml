@@ -27,5 +27,16 @@ This is a completed standalone project in which the data was loaded to Postgres 
       <description>Road traffic is the most common traffic in the world. We commute daily using cars, motorbikes, or buses &amp;hellip; How safe for us to go out of the house and enter road traffic? Does road traffic become safer in the last ten years? Which states have the most incidents? What are some of the high-risk factors involved in vehicle crashes? I used the dataset from https://crashviewer.nhtsa.dot.gov/CrashAPI/ to get the crash data in the USA for the last ten years.</description>
     </item>
     
+    <item>
+      <title>Weather visualization - where should I go</title>
+      <link>https://datng87.github.io/post/activity-weather-visualisation/</link>
+      <pubDate>Sat, 11 Jun 2022 11:13:32 -0400</pubDate>
+      
+      <guid>https://datng87.github.io/post/activity-weather-visualisation/</guid>
+      <description>In this activity, I&amp;rsquo;ll take the weather data of 500+ randomly selected cities around the world then analyse the data to see any relations between cities lat/lon and its weather.
+Here is how I approached the problem:
+Firstly, I generated 500+ random lat/lon data Used citipy to find the nearest city to those lat/lon Then, I connect to the weather API (https://api.openweathermap.org/data/2.5/weather) to take the weather data of those cities The last step is to use Pandas to prepare the data and visualise it Below are some findings:</description>
+    </item>
+    
   </channel>
 </rss>

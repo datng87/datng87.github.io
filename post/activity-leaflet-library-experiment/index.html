@@ -6,8 +6,7 @@
     
     <title>Interactive Map using Leaflet | Dat Nguyen</title>
     <meta name="viewport" content="width=device-width,minimum-scale=1">
-    <meta name="description" content="In this activity, I used the leaflet library to visualise the worldwide earthquakes in the last 7 days. The up-to-date data was pulled from United States Geological Survey, (USGS) through an API call. Mapbox was used to provide the layers of the world map. The magnitude and locations of earthquakes are visualised using circle markers. The tectonic plates are visualised using lines geometry geojson.
-We can see clearly that most earthquakes happen at the boundaries where the plates meet.">
+    <meta name="description" content="In this activity, I used the leaflet library to visualise the worldwide earthquakes in the last 7 days. The up-to-date data was pulled from United States Geological Survey, (USGS) through an API call. The USGS is responsible for providing scientific data about natural hazards, the health of our ecosystems and environment; and the impacts of climate and land-use change. Their scientists develop new methods and tools to supply timely, relevant, and useful information about the Earth and its processes.">
     <meta name="generator" content="Hugo 0.101.0" />
     
     
@@ -31,22 +30,19 @@ We can see clearly that most earthquakes happen at the boundaries where the plat
     
     
     <meta property="og:title" content="Interactive Map using Leaflet" />
-<meta property="og:description" content="In this activity, I used the leaflet library to visualise the worldwide earthquakes in the last 7 days. The up-to-date data was pulled from United States Geological Survey, (USGS) through an API call. Mapbox was used to provide the layers of the world map. The magnitude and locations of earthquakes are visualised using circle markers. The tectonic plates are visualised using lines geometry geojson.
-We can see clearly that most earthquakes happen at the boundaries where the plates meet." />
+<meta property="og:description" content="In this activity, I used the leaflet library to visualise the worldwide earthquakes in the last 7 days. The up-to-date data was pulled from United States Geological Survey, (USGS) through an API call. The USGS is responsible for providing scientific data about natural hazards, the health of our ecosystems and environment; and the impacts of climate and land-use change. Their scientists develop new methods and tools to supply timely, relevant, and useful information about the Earth and its processes." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://datng87.github.io/post/activity-leaflet-library-experiment/" /><meta property="article:section" content="post" />
 <meta property="article:published_time" content="2022-08-22T11:14:48-05:00" />
 <meta property="article:modified_time" content="2022-08-22T11:14:48-05:00" /><meta property="og:site_name" content="Dat Nguyen" />
 
 <meta itemprop="name" content="Interactive Map using Leaflet">
-<meta itemprop="description" content="In this activity, I used the leaflet library to visualise the worldwide earthquakes in the last 7 days. The up-to-date data was pulled from United States Geological Survey, (USGS) through an API call. Mapbox was used to provide the layers of the world map. The magnitude and locations of earthquakes are visualised using circle markers. The tectonic plates are visualised using lines geometry geojson.
-We can see clearly that most earthquakes happen at the boundaries where the plates meet."><meta itemprop="datePublished" content="2022-08-22T11:14:48-05:00" />
+<meta itemprop="description" content="In this activity, I used the leaflet library to visualise the worldwide earthquakes in the last 7 days. The up-to-date data was pulled from United States Geological Survey, (USGS) through an API call. The USGS is responsible for providing scientific data about natural hazards, the health of our ecosystems and environment; and the impacts of climate and land-use change. Their scientists develop new methods and tools to supply timely, relevant, and useful information about the Earth and its processes."><meta itemprop="datePublished" content="2022-08-22T11:14:48-05:00" />
 <meta itemprop="dateModified" content="2022-08-22T11:14:48-05:00" />
-<meta itemprop="wordCount" content="104">
+<meta itemprop="wordCount" content="275">
 <meta itemprop="keywords" content="Activities," /><meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Interactive Map using Leaflet"/>
-<meta name="twitter:description" content="In this activity, I used the leaflet library to visualise the worldwide earthquakes in the last 7 days. The up-to-date data was pulled from United States Geological Survey, (USGS) through an API call. Mapbox was used to provide the layers of the world map. The magnitude and locations of earthquakes are visualised using circle markers. The tectonic plates are visualised using lines geometry geojson.
-We can see clearly that most earthquakes happen at the boundaries where the plates meet."/>
+<meta name="twitter:description" content="In this activity, I used the leaflet library to visualise the worldwide earthquakes in the last 7 days. The up-to-date data was pulled from United States Geological Survey, (USGS) through an API call. The USGS is responsible for providing scientific data about natural hazards, the health of our ecosystems and environment; and the impacts of climate and land-use change. Their scientists develop new methods and tools to supply timely, relevant, and useful information about the Earth and its processes."/>
 
 	
   </head>
@@ -219,13 +215,28 @@ We can see clearly that most earthquakes happen at the boundaries where the plat
       
       
     </header>
-    <div class="nested-copy-line-height lh-copy serif f4 nested-links mid-gray pr4-l w-two-thirds-l"><p>In this activity, I used the leaflet library to visualise the worldwide earthquakes in the last 7 days. The up-to-date data was pulled from <a href="https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php">United States Geological Survey</a>, (USGS) through an API call. Mapbox was used to provide the layers of the world map. The magnitude and locations of earthquakes are visualised using circle markers. The tectonic plates are visualised using lines geometry geojson.</p>
+    <div class="nested-copy-line-height lh-copy serif f4 nested-links mid-gray pr4-l w-two-thirds-l"><p>In this activity, I used the leaflet library to visualise the worldwide earthquakes in the last 7 days. The up-to-date data was pulled from <a href="https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php">United States Geological Survey</a>, (USGS) through an API call. The USGS is responsible for providing scientific data about natural hazards, the health of our ecosystems and environment; and the impacts of climate and land-use change. Their scientists develop new methods and tools to supply timely, relevant, and useful information about the Earth and its processes.</p>
+<p>This visualisation would help students easily understand where the earthquakes were occurring and why these places had a higher chance of earthquakes.</p>
+<p>About the map:</p>
+<ul>
+<li>Mapbox was used to provide the layers of the world map. The magnitude and locations of earthquakes are visualised using circle markers; the bigger the circle, the higher the earthquake magnitude.</li>
+<li>Detail of the earthquakes will be shown when the marker is clicked on.</li>
+<li>The tectonic plates are visualised using lines geometry geojson.</li>
+</ul>
 <figure><img src="/images/leaflet.gif"/>
 </figure>
 
+<p>To generate this map:</p>
+<ul>
+<li>Firstly, I used Leaflet to create a base layer of the world map using leaflet</li>
+<li>Next, I used the earthquake geojson data from USGS API to create another layer for circles marker together with the legend.</li>
+<li>Then, I used another set of tectonic geojson data to generate the layer of the plate boundaries.</li>
+<li>Lastly, I added the option to toggle different map styles and layers.</li>
+</ul>
 <p>We can see clearly that most earthquakes happen at the boundaries where the plates meet. Earthquakes still occur within plates, but the frequency is much lesser.</p>
-<p>Visit <strong><a href="https://datng87.github.io/leaflet-challenge/">https://datng87.github.io/leaflet-challenge/</a></strong> for a live demo website.</p>
-<p>The code can be found at <strong><a href="https://github.com/datng87/leaflet-challenge">https://github.com/datng87/leaflet-challenge</a></strong></p>
+<p>I hope you enjoy this simple but powerful visualisation.</p>
+<p>Visit <strong><a href="https://datng87.github.io/leaflet-interactive-map/">https://datng87.github.io/leaflet-interactive-map/</a></strong> for a live demo website.</p>
+<p>The code can be found at <strong><a href="https://github.com/datng87/leaflet-interactive-map">https://github.com/datng87/leaflet-interactive-map</a></strong></p>
 <ul class="pa0">
   
    <li class="list di">
