@@ -19,6 +19,15 @@ This is a completed standalone project in which the data was loaded to Postgres 
     </item>
     
     <item>
+      <title>Project 1: Fatal vehicles crashes in USA for the last 10 years</title>
+      <link>https://datng87.github.io/post/project1/</link>
+      <pubDate>Fri, 09 Sep 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://datng87.github.io/post/project1/</guid>
+      <description>Road traffic is the most common traffic in the world. We commute daily using cars, motorbikes, or buses &amp;hellip; How safe for us to go out of the house and enter road traffic? Does road traffic become safer in the last ten years? Which states have the most incidents? What are some of the high-risk factors involved in vehicle crashes? I used the dataset from https://crashviewer.nhtsa.dot.gov/CrashAPI/ to get the crash data in the USA for the last ten years.</description>
+    </item>
+    
+    <item>
       <title>Interactive Map using Leaflet</title>
       <link>https://datng87.github.io/post/activity-leaflet-library-experiment/</link>
       <pubDate>Mon, 22 Aug 2022 11:14:48 -0500</pubDate>
@@ -37,15 +46,6 @@ This is a completed standalone project in which the data was loaded to Postgres 
 The purpose is to use D3 to demonstrate the ability to build a personal customised interactive chart using D3 to visualise the relationship between health risks and social demography backgrounds.
 Interactive chart using D3 We can see there are some correlation between Poverty and lack of healthcare, or correlation between obesity and household Income&amp;hellip;
 Visit https://datng87.github.io/D3-challenge/ for a live demo website.</description>
-    </item>
-    
-    <item>
-      <title>Project 1: Fatal vehicles crashes in USA for the last 10 years</title>
-      <link>https://datng87.github.io/post/project1/</link>
-      <pubDate>Sat, 09 Jul 2022 10:58:08 -0400</pubDate>
-      
-      <guid>https://datng87.github.io/post/project1/</guid>
-      <description>Road traffic is the most common traffic in the world. We commute daily using cars, motorbikes, or buses &amp;hellip; How safe for us to go out of the house and enter road traffic? Does road traffic become safer in the last ten years? Which states have the most incidents? What are some of the high-risk factors involved in vehicle crashes? I used the dataset from https://crashviewer.nhtsa.dot.gov/CrashAPI/ to get the crash data in the USA for the last ten years.</description>
     </item>
     
     <item>
