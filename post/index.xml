@@ -49,6 +49,17 @@ Visit https://datng87.github.io/D3-challenge/ for a live demo website.</descript
     </item>
     
     <item>
+      <title>Interactive Dashboard using Plotly</title>
+      <link>https://datng87.github.io/post/activity-plotly-library-experiment/</link>
+      <pubDate>Wed, 03 Aug 2022 11:14:48 -0500</pubDate>
+      
+      <guid>https://datng87.github.io/post/activity-plotly-library-experiment/</guid>
+      <description>In this activity, I built an interactive dashboard to explore the Belly Button Biodiversity dataset, which catalogues the microbes that colonise human navels.
+The dashboard shows the background of each individual and what type of bacteria was found in that person&amp;rsquo;s belly.
+Interactive dashboard Visit https://datng87.github.io/plotly-challenge/ for a live demo website. The code can be found at https://github.com/datng87/plotly-challenge.</description>
+    </item>
+    
+    <item>
       <title>Web scraping - Latest Mars News</title>
       <link>https://datng87.github.io/post/activity-web-scraping/</link>
       <pubDate>Wed, 20 Jul 2022 11:14:48 -0500</pubDate>
@@ -68,17 +79,6 @@ Flask BeautifulSoup Pandas Requests/Splinter. Mongo DB HTML, CSS, Bootstrap, Jup
       <description>In this activity, I&amp;rsquo;ll take the weather data of 500+ randomly selected cities around the world then analyse the data to see any relations between cities lat/lon and its weather.
 Here is how I approached the problem:
 Firstly, I generated 500+ random lat/lon data Used citipy to find the nearest city to those lat/lon Then, I connect to the weather API (https://api.openweathermap.org/data/2.5/weather) to take the weather data of those cities The last step is to use Pandas to prepare the data and visualise it Below are some findings:</description>
-    </item>
-    
-    <item>
-      <title>Interactive Dashboard using Plotly</title>
-      <link>https://datng87.github.io/post/activity-plotly-library-experiment/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://datng87.github.io/post/activity-plotly-library-experiment/</guid>
-      <description>In this activity, I built an interactive dashboard to explore the Belly Button Biodiversity dataset, which catalogues the microbes that colonise human navels.
-The dashboard shows the background of each individual and what type of bacteria was found in that person&amp;rsquo;s belly.
-Interactive dashboard Visit https://datng87.github.io/plotly-challenge/ for a live demo website. The code can be found at https://github.com/datng87/plotly-challenge.</description>
     </item>
     
   </channel>
