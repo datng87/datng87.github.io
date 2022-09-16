@@ -29,6 +29,17 @@ Visit https://datng87.github.io/D3-challenge/ for a live demo website.</descript
     </item>
     
     <item>
+      <title>Web scraping - Latest Mars News</title>
+      <link>https://datng87.github.io/post/activity-web-scraping/</link>
+      <pubDate>Wed, 20 Jul 2022 11:14:48 -0500</pubDate>
+      
+      <guid>https://datng87.github.io/post/activity-web-scraping/</guid>
+      <description>In this project, I&amp;rsquo;ll build a web application that scrapes the data from other websites regarding MARS and displays the information in an HTML page.
+The tools used in this project are:
+Flask BeautifulSoup Pandas Requests/Splinter. Mongo DB HTML, CSS, Bootstrap, Jupiter Notebook for debugging purposes on how the scraped data looks like. How does it work: The application has a refresh button on top. Once the refresh button is clicked, the web application will run and scrape new data from other sites.</description>
+    </item>
+    
+    <item>
       <title>Interactive Dashboard using Plotly</title>
       <link>https://datng87.github.io/post/activity-plotly-library-experiment/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
