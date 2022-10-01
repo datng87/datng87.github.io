@@ -45,7 +45,7 @@ This is a completed standalone project in which the data was loaded to Postgres 
       <description>In this activity, I use the data from 2014 ACS 1-year estimates https://factfinder.census.gov/faces/nav/jsf/pages/searchresults.xhtml.
 The purpose is to use D3 to demonstrate the ability to build a personal customised interactive chart using D3 to visualise the relationship between health risks and social demography backgrounds.
 Interactive chart using D3 We can see there are some correlation between Poverty and lack of healthcare, or correlation between obesity and household Income&amp;hellip;
-Visit https://datng87.github.io/D3-challenge/ for a live demo website.</description>
+Visit https://datng87.github.io/customised-interactive-chart-with-D3/ for a live demo website.</description>
     </item>
     
     <item>
@@ -56,7 +56,7 @@ Visit https://datng87.github.io/D3-challenge/ for a live demo website.</descript
       <guid>https://datng87.github.io/post/activity-plotly-library-experiment/</guid>
       <description>In this activity, I built an interactive dashboard to explore the Belly Button Biodiversity dataset, which catalogues the microbes that colonise human navels.
 The dashboard shows the background of each individual and what type of bacteria was found in that person&amp;rsquo;s belly.
-Interactive dashboard Visit https://datng87.github.io/plotly-challenge/ for a live demo website. The code can be found at https://github.com/datng87/plotly-challenge.</description>
+Interactive dashboard Visit https://datng87.github.io/Belly-Button-Biodiversity-viz-plotly/ for a live demo website. The code can be found at https://github.com/datng87/Belly-Button-Biodiversity-viz-plotly</description>
     </item>
     
     <item>
