@@ -8,7 +8,19 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://datng87.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Project 2: ETL project</title>
+      <title>Machine learning project: Prediction of Movie ratings</title>
+      <link>https://datng87.github.io/post/project3/</link>
+      <pubDate>Tue, 18 Oct 2022 11:00:59 -0400</pubDate>
+      
+      <guid>https://datng87.github.io/post/project3/</guid>
+      <description>Background and Context: The Movie World: Defining the problem Movie industry is a volatile high investment / high risk industry.
+After two decades of boom in terms of volume and revenue. The last five years has seen a decline in revenue and the last three years, a reduction in volume.
+Understanding the drivers for success is critical to minimise financial and reputational risk.
+Measures of Success Movie ratings come from a wide range of features and can be used as one proxy as a measure of success.</description>
+    </item>
+    
+    <item>
+      <title>ETL project: Coffee Worldwide consumption and production analysis</title>
       <link>https://datng87.github.io/post/project2/</link>
       <pubDate>Mon, 12 Sep 2022 11:00:59 -0400</pubDate>
       
